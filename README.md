@@ -206,7 +206,3 @@ MarginMind/
 ```
 
 ---
-
-## License
-
-Academic project — University of Arizona INFO 698 Capstone, Spring 2026.
