@@ -17,19 +17,6 @@ MarginMind is a hosted web application that accepts student assignment submissio
 
 ---
 
-## Team
-
-| Name | Modality (Primary) | Platform (Primary) |
-|---|---|---|
-| Prajwal Sathyanarayana | Diagrams / Tables | Backend |
-| Vaishnav Mandlik | Handwritten / Scanned STEM | Frontend |
-| Yash Salokhe | Typed Text | Evaluation / Quality |
-| Kkshitij Kapadia | Multilingual | Hosting / Release |
-
-**Project Mentor:** Rakshith Subramanyam (Axio Education)
-
----
-
 ## Architecture
 
 ```
