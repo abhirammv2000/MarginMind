@@ -1,8 +1,5 @@
 # MarginMind
 
-> AI-powered margin feedback for student assignment submissions.  
-> INFO 698 Capstone Project · University of Arizona · Spring 2026
-
 ---
 
 ## Overview
